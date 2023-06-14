@@ -1,6 +1,6 @@
 Hey! I am **XKaliber**! 👋
 
->Code is like humor. When you have to explain it, it’s bad.
+>#Code is like humor. When you have to explain it, it’s bad.
 
 I might not be very good as of now, but I hope to one day become a good programmer!
 
