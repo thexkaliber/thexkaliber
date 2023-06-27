@@ -5,7 +5,7 @@
 
 I like to code, I love to break and most importantly, I yearn to make. As corny (or epic) as that sounded, that's one way to put how I approach the world of Computer Science. Why not try to learn it all and fall on your face failing? 
 
-Putting aside the unoriginal, possibily pretentious proud speak, I am a fresh college graduate trying to upskill myself everyday. I have written a couple Web Applications, Bots and have dwelled a little into Machine Learning. Currently I am trying out the world of Embedded Systems!!!
+Putting aside the unoriginal, possibly pretentious proud speak, I am a fresh college graduate trying to upskill myself everyday. I have written a couple Web Applications, Bots and have dwelled a little into Machine Learning. Currently I am trying out the world of Embedded Systems!!!
 
 Feel free to use my repos (I don't know why you would want to do that but sure?) and contact me through my socials.
 <div align="center">  
