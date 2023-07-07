@@ -9,16 +9,16 @@ Putting aside the unoriginal, possibly pretentious proud speak, I am a fresh col
 
 Feel free to use my repos (I don't know why you would want to do that but sure?) and contact me through my socials.
 <div align="center">  
-<a style="text-decoration-line:none;" href="https://github.com/thexkaliber" target="_blank">
+<a href="https://github.com/thexkaliber" target="_blank" style="text-decoration-line:none !important;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github align="center" style="justify-content:center;margin-bottom: 5px;" />
 </a>
-<a style="text-decoration-line:none;" href="https://linkedin.com/in/srihari-a-s-9015041b4" target="_blank">
+<a href="https://linkedin.com/in/srihari-a-s-9015041b4" target="_blank" style="text-decoration-line:none !important;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin align="center" style="justify-content:center;margin-bottom: 5px;" />
 </a>
-<a style="text-decoration-line:none;" href="https://twitter.com/XKaliberRsR" target="_blank">
+<a href="https://twitter.com/XKaliberRsR" target="_blank" style="text-decoration-line:none !important;">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter align="center" style="justify-content:center;margin-bottom: 5px;" />
 </a>
-<a style="text-decoration-line:none;"  href="https://instagram.com/thexkaliber" target="_blank">
+<a href="https://instagram.com/thexkaliber" target="_blank"style="text-decoration-line:none !important;" >
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram align="center" style="justify-content:center;margin-bottom: 5px;" />
 </a>
 </div>
